@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshi998
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning at University of Kelaniya
+- 👀 I’m interested in new Research opportynities
+- 🌱 I’m currently working at the University of Kelaniya
 - 📫 How to reach me maheshik998@gmail.com
 
 <!---
